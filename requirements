@@ -1,5 +1,32 @@
-Requirements:
+#System Requirements
+Hardware :
 
-1. Python 3.8+
-2. pandas
-3. scikit-learn
+1.4GB RAM
+2.i3 Processor
+3.500MB free space
+
+Software :
+
+1.Anaconda
+2.Python
+
+#Dependencies
+Before running the code, make sure you have the following libraries and packages installed:
+
+-Python 3
+-Scikit-learn
+-Pandas
+-Numpy
+-Seaborn
+-Matplotlib
+-Regular Expression
+
+You can install these dependencies using pip:
+```bash:
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install sklearn
+pip install seaborn 
+pip install re 
+```
