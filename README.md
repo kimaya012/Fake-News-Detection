@@ -48,7 +48,7 @@ It is a labelled dataset containing news articles along with their corresponding
  
  We evaluated each classifier's performance using metrics such as accuracy, precision, recall, and F1 score. The results are documented in the project files.
 
- ##Project Screenshots
+ ## Project Screenshots
 
 
 ![FND-1](https://github.com/user-attachments/assets/8a53ec28-cea0-4f21-9679-83d053a56ba8)
