@@ -15,7 +15,8 @@ The project aims to develop a machine-learning model capable of identifying and 
  ## Dataset
  This project uses the Fake and Real News Dataset by Clément Bisaillon, available on Kaggle.
 
-Source: Fake and Real News Dataset on Kaggle
+Source: [Click](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
 It is a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
  - True: Genuine news articles
  - False: Fake or fabricated news articles
