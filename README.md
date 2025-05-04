@@ -50,8 +50,10 @@ It is a labelled dataset containing news articles along with their corresponding
 
  ##Project Screenshots
 
-![FND-3](https://github.com/user-attachments/assets/2bf3a967-955e-42ad-a224-eeab8620156d)
-![FND-2](https://github.com/user-attachments/assets/9cd9b333-18f0-4958-8b3a-5952b7702177)
+
 ![FND-1](https://github.com/user-attachments/assets/8a53ec28-cea0-4f21-9679-83d053a56ba8)
+![FND-2](https://github.com/user-attachments/assets/9cd9b333-18f0-4958-8b3a-5952b7702177)
+![FND-3](https://github.com/user-attachments/assets/2bf3a967-955e-42ad-a224-eeab8620156d)
+![FND-4](https://github.com/user-attachments/assets/5768377a-198e-4758-a7cc-605cbc863ea7)
 
 
